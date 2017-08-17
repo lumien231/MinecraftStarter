@@ -9,7 +9,7 @@ This is a small tool that makes the Twitch Launcher go to the minecraft tab on s
 
 To undo the whole thing just run the Disable_MinecraftStarter.reg file and remove the MinecraftStarter.exe file from your twitch folder.
 
-It works fine for me, no guarantee it does for you :).
+It doesn't appear to cause any issues but obviously don't report issues to Twitch you can't reproduce without this.
 
 # How it works
 The "home page" of the launcher is a simple command line argument for the TwitchUI. The registry file causes the MinecraftStarter.exe to run instead of the actual twitch ui. 
