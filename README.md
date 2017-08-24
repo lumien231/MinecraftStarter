@@ -3,7 +3,7 @@ This is a small tool that makes the Twitch Launcher go to the minecraft tab on s
 
 # Tutorial
 1. Download & Extract the MinecraftStarter.zip file from the release tab (Or compile the exe yourself if you want to)
-2. Copy the MinecraftStarter.exe file into your Twitch Binary Path (Default is C:\Users\USERNAME\AppData\Roaming\Twitch\Bin)
+2. Copy the MinecraftStarter.exe file into your Twitch Binary Path (Default is C:\Users\USERNAME\AppData\Roaming\Twitch\Bin, it might also be C:\Users\USERNAME\AppData\Roaming\Curse Client\Bin)
 3. "Run" the Enable_MinecraftStarter.reg file.
 4. Done
 
